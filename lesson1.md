@@ -50,7 +50,7 @@ __Cascading__ means propagating an operation from the owning entity to the relat
 
 JPA Cascade types:
 
-|         |                                                                   |
+| Type    | Meaning                                                           |
 |---------|-------------------------------------------------------------------|
 | Persist | Owning entity saved => related entity saved                       |
 | Merge   | Owning entity merged => related entity merged                     |
