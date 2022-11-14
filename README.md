@@ -8,13 +8,13 @@ This course is well-organized with high-quality content.
 
 ### 7. Database Relationships in Spring
 
-- Lesson 1: [Basic Concepts]()
-- Lesson 2: [One-to-One Unidirectional Relationship]()
-- Lesson 3: [One-to-One Bidirectional Relationship]()
-- Lesson 4: [One-to-Many Unidirectional Relationship]()
-- Lesson 5: [One-to-Many Bidirectional Relationship]()
-- Lesson 6: [Many-to-Many Unidirectional Relationship]()
-- Lesson 7: [Many-to-Many Bidirectional Relationship]()
+- Lesson 1: [Basic Concepts](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-5/blob/master/lesson1.md)
+- Lesson 2: [One-to-One Unidirectional Relationship](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-5/blob/master/lesson2.md)
+- Lesson 3: [One-to-One Bidirectional Relationship](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-5/blob/master/lesson3.md)
+- Lesson 4: [One-to-Many Unidirectional Relationship](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-5/blob/master/lesson4.md)
+- Lesson 5: [One-to-Many Bidirectional Relationship](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-5/blob/master/lesson5.md)
+- Lesson 6: [Many-to-Many Unidirectional Relationship](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-5/blob/master/lesson6.md)
+- Lesson 7: [Many-to-Many Bidirectional Relationship](https://github.com/ginny100/The-Complete-Guide-to-Spring-5-and-Spring-Boot-2-Part-5/blob/master/lesson7.md)
 
 ## Other Parts
 
